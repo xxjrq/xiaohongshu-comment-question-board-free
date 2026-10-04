@@ -1,6 +1,6 @@
 # 小红书评论问答需求板
 
-![小红书评论问答需求板](assets/promo.png)
+![小红书评论问答需求板](assets/promo-1600x900.png)
 
 把指定一篇小红书笔记的**可见评论**整理为可追溯的读者问题需求板：获得问题分类、出现频次和逐条来源位置，方便做选题、补充内容与验证真实关注点。它不会把猜测当需求；没有可见评论、受到登录/验证限制时，会直接给出“不可采集”和缺项。
 
@@ -16,7 +16,7 @@ npx skills add xxjrq/xiaohongshu-comment-question-board-free
 
 这是浏览器 Skill。先安装 [Easy WebBridge（GitHub）](https://github.com/xxjrq/easy-webbridge)，无法访问时用 [Gitee 备用地址](https://gitee.com/xxjrq/easy-webbridge)。扩展连接到目标浏览器后，由用户提供要操作的单个 `browserId`；每次任务只创建、管理和关闭自己的 session/标签组，不影响已有页面或其他账号。
 
-![无文字单焦点插画：手机评论气泡与分类便签](assets/promo.png)
+![无文字单焦点插画：手机评论气泡与分类便签](assets/promo-1600x900.png)
 
 ## 使用方式
 

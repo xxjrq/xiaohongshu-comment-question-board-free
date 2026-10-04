@@ -2,7 +2,7 @@ name: xiaohongshu-comment-question-board-free
 slug: xiaohongshu-comment-question-board-free
 display_name: 小红书评论问答需求板
 description: 在用户指定的 Easy WebBridge 浏览器环境中，只读提取一篇小红书笔记最多 20 条当前可见评论，按读者提问主题归类并统计频次，交付每条评论的可见来源位置与缺项。适用于选题、内容补洞和售前调研；评论为空、登录受限或出现验证时明确标记不可采集，绝不补写需求或频次。
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/xxjrq/xiaohongshu-comment-question-board-free
 license: MIT
 icon: icon-512.png
