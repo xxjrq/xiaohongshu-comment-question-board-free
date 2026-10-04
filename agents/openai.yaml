@@ -1,0 +1,8 @@
+interface:
+  display_name: "小红书评论问答需求板"
+  short_description: "从用户指定的一篇笔记可见评论中整理可追溯的读者问题需求板"
+  default_prompt: "使用 $xiaohongshu-comment-question-board-free，使用我指定的 browserId 和笔记页面，只读整理最多20条可见评论；输出问题分类、频次、每条来源位置和缺项。没有可见评论时请明确不可采集。"
+  icon_small: "./icon-512.png"
+  icon_large: "./icon-512.png"
+policy:
+  allow_implicit_invocation: true

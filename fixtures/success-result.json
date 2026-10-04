@@ -1,0 +1,37 @@
+{
+  "status": "已整理（离线模拟）",
+  "scope": "已读取 3 条模拟可见评论（上限20条）",
+  "categories": [
+    {
+      "category": "版型与尺码",
+      "frequency": 2,
+      "sources": [
+        {
+          "question": "小个子怎么选大衣长度？",
+          "source_position": "评论区第1条",
+          "visible_author": "可见昵称A"
+        },
+        {
+          "question": "小个子怎么选大衣长度？",
+          "source_position": "评论区第3条",
+          "visible_author": "可见昵称C"
+        }
+      ]
+    },
+    {
+      "category": "搭配单品",
+      "frequency": 1,
+      "sources": [
+        {
+          "question": "通勤鞋能推荐一双吗？",
+          "source_position": "评论区第2条",
+          "visible_author": "可见昵称B"
+        }
+      ]
+    }
+  ],
+  "missing": [
+    "未核验在线页面、回复展开状态与被折叠评论"
+  ],
+  "source": "离线页面资料模拟；不是在线采集结果。"
+}
